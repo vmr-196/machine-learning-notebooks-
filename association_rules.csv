@@ -1,0 +1,5 @@
+antecedents,consequents,antecedent support,consequent support,support,confidence,lift,representativity,leverage,conviction,zhangs_metric,jaccard,certainty,kulczynski
+frozenset({'Gaming Headset'}),frozenset({'Gaming Mouse'}),0.4,0.6,0.3,0.7499999999999999,1.2499999999999998,1.0,0.06,1.5999999999999994,0.3333333333333333,0.4285714285714286,0.3749999999999998,0.625
+frozenset({'Gaming Mouse'}),frozenset({'Gaming Headset'}),0.6,0.4,0.3,0.5,1.25,1.0,0.06,1.2,0.5,0.4285714285714286,0.16666666666666663,0.625
+frozenset({'Gaming Keyboard'}),frozenset({'Gaming Mouse'}),0.5,0.6,0.3,0.6,1.0,1.0,0.0,1.0,0.0,0.37499999999999994,0.0,0.55
+frozenset({'Gaming Mouse'}),frozenset({'Gaming Keyboard'}),0.6,0.5,0.3,0.5,1.0,1.0,0.0,1.0,0.0,0.37499999999999994,0.0,0.55
